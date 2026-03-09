@@ -1,7 +1,11 @@
 :Author: Chezter Pescadero Vargas, Mark Vincent Salupado
+
 :Email: cheztervargas353@gmail.com
+
 :Date: 25/08/2025
+
 :Revision: v17.0
+
 :License: GNU GPLv3
 
 # Project: eM-Brace Codes
