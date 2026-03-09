@@ -100,9 +100,9 @@ Contributions are welcome! You can:
 
 ## Resources
 
-- [Arduino Documentation](https://docs.arduino.cc/)
-- [Surface EMG Sensing Guide](https://en.wikipedia.org/wiki/Electromyography)
-- [Arduino Nano 33 IoT Pinout](https://docs.arduino.cc/hardware/nano-33-iot)
+- [Arduino IDE Documentation](https://docs.arduino.cc/)
+- [MyoWare sEMG Sensor Advanced Guide](https://myoware.com/wp-content/uploads/2022/03/MyoWare_v2_AdvancedGuide-Updated.pdf)
+- [ESP32 WROOM Pinout & Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf)
 - [Carpal Tunnel Syndrome Information](https://www.mayoclinic.org/diseases-conditions/carpal-tunnel-syndrome/)
 
 ---
